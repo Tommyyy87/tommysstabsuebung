@@ -1,0 +1,1297 @@
+[
+  {
+    "id": "karte-01",
+    "orderId": 0,
+    "question": "Welche Aussage(n) zum Patiententransport-Zug (PT-Z 10 NRW) ist bzw. sind gemäß Landeskonzept zutreffend?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "1-1",
+        "text": "Der PT-Z 10 NRW ist eine nicht näher geregelte Form der nachbarschaftlichen Soforthilfe im Rettungsdienst.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "1-2",
+        "text": "Die Mannschaft eines PT-Z 10 NRW umfasst planerisch 10 Einsatzkräfte.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "1-3",
+        "text": "Die SEG Sanität ist eine Teileinheit des PT-Z 10 NRW.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "1-4",
+        "text": "Zur Mannschaft des PT-Z 10 NRW zählen planerisch zwei Notärzte.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "1-5",
+        "text": "Der PT-Z 10 NRW wird im Rahmen der überörtlichen Hilfe als Einzelfahzeuge alarmiert, die jedes für sich direkt von ihren Rettungswachen zum Zielort abrücken um sich dort der Einsatzleitung zu unterstellen.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-02",
+    "orderId": 1,
+    "question": "Ein Löschzug in einer Bezirksbereitschaft gemäß Konzept für die \"vorgeplante überörtliche Hilfe im Brandschutz und der Hilfeleistung durch die Feuerwehren im Land Nordrhein-Westfalen\" (VüH-Feu NRW)...\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "2-1",
+        "text": "... soll als Mannschaft grundsätzlich einen Zugführer, einen Führungstrupp sowie zwei Löschgruppen umfassen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "2-2",
+        "text": "... soll als Einsatzmittel vorzugsweise einen ELW1, ein Löschgruppenfahrzeug, eine Drehleiter und ein Tanklöschfahrzeug mit Staffelbesetzung umfassen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "2-3",
+        "text": "... soll als Einsatzmittel grundsätzlich geländefähige oder geländegängige Fahrzeuge umfassen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "2-4",
+        "text": "... soll sich in einen Zugtrupp, eine Bergungsgruppe und mindestens eine Fachgruppe gliedern.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "2-5",
+        "text": "... kann in Abhängigkeit vom erwarteten Auftrag durch ein zusätzliches Fahrzeug erweitert werden, z.B. Tanklöschfahrzeug oder Rüstwagen.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-03",
+    "orderId": 2,
+    "question": "Welche Aussage(n) zum ABC-Zug NRW ist bzw. sind gemäß Landeskonzept zutreffend?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "3-1",
+        "text": "Weil der ABC-Zug NRW rechtlich als Fachdienst im Zivilschutz organisiert ist, lautet die korrekte Bezeichnung Entseuchungszug.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "3-2",
+        "text": "Ein ABC-Zug NRW soll als Einsatzmittel grundsätzlich einen ELW 1, zwei LF20 KatS und einen GW-G umfassen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "3-3",
+        "text": "In jeden ABC-Zug NRW ist eine Dekontaminations-Staffel eingegliedert.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "3-4",
+        "text": "Von jedem Kreis und jeder kreisfreien Stadt ist mindestens ein ABC-Zug NRW vorzuhalten.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "3-5",
+        "text": "Eine Analytische Task Force (ATF) setzt sich aus vier ABC-Zügen NRW, einem Logistikzug NRW und einer Bereitschaftsführung zusammen.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-04",
+    "orderId": 3,
+    "question": "Welche Aussage(n) zum Technischen Zug (TZ) des Technischen Hilfswerks (THW) ist bzw. sind korrekt?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "4-1",
+        "text": "Ein Technischer Zug ist ein schienengebundenes Rettungsmittel, das vorrangig zur Hilfeleistung bei Bahnunfällen eingesetzt wird.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "4-2",
+        "text": "Ein Technischer Zug setzt sich zusammen aus einer Zugführung, einer Bergungsgruppe und mindestens einer Fachgruppe.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "4-3",
+        "text": "Jeder Ortsverband des THW kann mindestens einen Technischen Zug stellen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "4-4",
+        "text": "Der Aufgabenschwerpunkt eines Technischen Zuges ist die Hilfeleistung bei Unglücksfällen oder öffentlichen Notständen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "4-5",
+        "text": "Gemäß BHKG dürfen Technische Züge nur in Großeinsatzlagen und Katastrophen eingesetzt werden.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-05",
+    "orderId": 4,
+    "question": "Die TMO-Rufgruppe MUS_BOS eigenet sich in Musterstadt...\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "5-1",
+        "text": "... nur zur Kommunikation zwischen Führungseinheit und Leitstelle, da taktische Einheiten die Gruppe nicht schalten können.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "5-2",
+        "text": "... nur zur Kommunikation zwischen Leitstelle und Rettungsdienst im Grundschutz, da nachbarschaftliche Einheiten die Gruppe nicht schalten können.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "5-3",
+        "text": "... nur zur Kommunikation zwischen Polizeieinheiten, da Einheiten von Feuerwehr, Rettungsdienst und Katastrophenschutz diese Gruppe nicht schalten können.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "5-4",
+        "text": "... falls nicht anderweitig vergeben oder benötigt: zur Nutzung im Bereitstellungsraum, da u.a. Feuerwehr, Rettungsdienst, Katastrophenschutz und Technisches Hilfswerk (THW) diese Gruppe nutzen können.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "5-5",
+        "text": "... falls nicht anderweitig vergeben oder benötigt: zur Nutzung in einem Einsatzabschnitt Luft, da Polizei- und Rettungshubschrauber aller Behörden und Organisationen mit Sicherheitsaufgaben diese Gruppe nutzen können.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-06",
+    "orderId": 5,
+    "question": "Wer ist gemäß FwDV 100 in der Führungsstufe D für die Festlegung und Einrichtung von Bereitstellungsräumen zuständig?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "6-1",
+        "text": "Die Sachgebiete 3 und 6 gemeinsam.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "6-2",
+        "text": "Die Sachgebiete 3 und 4 gemeinsam.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "6-3",
+        "text": "Die Sachgebiete 1 und 4 gemeinsam.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "6-4",
+        "text": "Die Sachgebiete 2 und 3 gemeinsam.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "6-5",
+        "text": "Die Sachgebiete 1 und 3 gemeinsam.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-07",
+    "orderId": 6,
+    "question": "Welche der hier aufgeführten Aussagen stimmen mit den hier abgebildeten Informationen überein?\n \n ",
+    "media": [
+      {
+        "src": "IMG_B079BAB931E0-1.jpeg",
+        "alt": "IMG B079BAB931E0 1"
+      }
+    ],
+    "answers": [
+      {
+        "id": "7-1",
+        "text": "Antwort A",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "7-2",
+        "text": "Antwort B",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "7-3",
+        "text": "Antwort C",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "7-4",
+        "text": "Antwort D",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "7-5",
+        "text": "Antwort E",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-08",
+    "orderId": 7,
+    "question": "Welche Aussage(n) zum Krisenstab ist bzw. sind korrekt?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "8-1",
+        "text": "In Nordrhein-Westfalen wird die in der FwDV 100 genannte administrative-organisatorische Komponente als Krisenstab bezeichnet.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "8-2",
+        "text": "Krisenstab und Führungsstab werden unter der politischen gesamtverantwortlichen Führung der Kreisbrandmeisterin bzw. des Kreisbrandmeisters tätig.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "8-3",
+        "text": "Bei Großeinsatzlagen und Katastrophen sind durch Kreise und kreisfreie Städte Krisenstäbe und Führungsstäbe einzurichten.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "8-4",
+        "text": "Gemäß BHKG sollen Krisenstab und Führungsstab stets im selben Raum untergebracht werden, um die Zusammenarbeit zu erleichtern.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "8-5",
+        "text": "In Nordrhein-Westfalen ist geregelt, dass das Sachgebiet S 5 des Führungsstabes der für Bevölkerungs- und Medienarbeit (BuMA) zuständigen Stelle des Krisenstabes untersteht.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-09",
+    "orderId": 8,
+    "question": "Ein Krisenstab...\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "9-1",
+        "text": "... arbeitet während Besprechungs- und Arbeitsphasen durchgängig im Krisenstabsraum.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "9-2",
+        "text": "... tritt nur für Besprechungen im Krisenstabsraum zusammen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "9-3",
+        "text": "... arbeitet, wenn der Führungsstab überlastet ist, als Führungseinheit der Führungsstufe E gemäß FwDV 100.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "9-4",
+        "text": "... trifft Entscheidungen, deren Umsetzung in den bestehenden Organisationsstrukturen der Behörde (Ämter, Fachbereiche, Fachdienste etc.) erfolgt.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "9-5",
+        "text": "... trifft Entscheidungen, deren Umsetzung der Bezirksregierung obliegt.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-10",
+    "orderId": 9,
+    "question": "Bei einer Großeinsatzlage hat neben der Einsatzleitung der Krisenstab die Arbeit aufgenommen. Da bei der Leitstelle zahlreiche Anrufe von besorgten Bürgerinnen und Bürgern eingehen, stellt sich die Frage, wer denn für die Einrichtung des Bürgertelefons zuständig ist. Welche Feststellung(en) ist bzw. sind diesbezüglich richtig?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "10-1",
+        "text": "Gemäß Leitstellenerlass ist die Leitstelle nicht nur für den Feuerschutz und den Rettungsdienstzuständig, sondern muss auch das Bürgertelefon einrichten und betreiben.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "10-2",
+        "text": "Die zuständige Person für Bevölkerungs- und Medienarbeit (BuMA) des Krisenstabes kann die Einrichtung und den Betrieb eines Bürgertelefons veranlassen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "10-3",
+        "text": "Das Bürgertelefon sollte gemäß BHKG vorrangig von den Vermittlungszentralen des ärztlichen Bereitschaftsdienstes unter der einheitlichen Rufnummer 116117 betrieben werden.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "10-4",
+        "text": "In Kreisen verwantwortet diese Aufgabe die Kreisbrandmeisterin bzw. der Kreisbrandmeister und in kreisfreien Städten die Leiterin bzw. der Leiter der Feuerwehr.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "10-5",
+        "text": "Sowohl Bürgertelefon als auch Auskunftstelle werden gemäß FwDV 100 vom Sachgebiet Presse- und Medienarbeit (S 5) des Führungsstabes betrieben.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-11",
+    "orderId": 10,
+    "question": "Welche dieser Aussage(n) trifft die FwDV 100 zu den Führungsstufen?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "11-1",
+        "text": "Die Führungsstufe D soll das Führen eines Zuges oder Verbands an einer Einsatzstelle ermöglichen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "11-2",
+        "text": "Die Führungsstufe D wird als \"Führen mit Führungsstaffel\" bezeichnet.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "11-3",
+        "text": "Die Führungsstufe D soll dann genutzt werden, wenn mehrere Verbände an einer\nEinsatzstelle oder an mehreren Einsatzstellen im Schadengebiet tätig werden.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "11-4",
+        "text": "Die Größe der Führungseinheit ergibt sich aus der Entwicklung des Schaden- beziehungsweise Aufgabenumfanges.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "11-5",
+        "text": "In der Führungsstufe D umfasst das Personal der Einsatzleitung ausschließlich\nVerbandsführerinnen und Verbandsführer.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-12",
+    "orderId": 11,
+    "question": "Was verlangt die FwDV 100 bezüglich der Einhaltung von Führungsebenen?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "12-1",
+        "text": "Führungsebenen dürfen grundsätzlich\nnicht übersprungen werden. Da die Gefahr bestünde, dass wesentliche Entscheidungsfaktoren, die nur der nachgeordneten oder übersprungenen Ebene bekannt sind, außer Acht gelassen werden.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "12-2",
+        "text": "Trägt die Einsatzleiterin bzw. der Einsatzleiter einen höheren Dienstgrad als die sonstigen\nEinsatzkräfte so darf sie bzw. er Führungsebenen grundsätzlich überspringen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "12-3",
+        "text": "Eine Einsatzstelle oder ein Schadengebiet kann in zwei bis maximal fünf Führungsebenen untergliedert werden.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "12-4",
+        "text": "Auch bei eilbedürftigen Maßnahmen sind ausnahmslos alle Führungsebenen sofort und direkt zu berücksichtigen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "12-5",
+        "text": "Das Überspringen von Führungsebenen ist in Ausnahmefällen infolge einer Eilbedürftigkeit erlaubt. Dies erfordert jedoch, dass unverzüglich die Information der übersprungenen Stelle nachgeholt werden muss.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-13",
+    "orderId": 12,
+    "question": "Welche Funktionen können gemäß FwDV 100 einen Führungsstab bei Bedarf ergänzen?\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "13-1",
+        "text": "Das Personal des Sachgebietes 5 mit dem Aufgabenpaket \"Presse- und Medienarbeit\".",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "13-2",
+        "text": "Das Personal des Sachgebietes 6 mit dem Aufgabenpaket \"Informations- und Kommunikationswesen\".",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "13-3",
+        "text": "Zusätzliche, entsprechend der Schadenlage in der Einsatzleitung benötigte Fachberaterinnen und Fachberater.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "13-4",
+        "text": "Das Personal des Sachgebietes 5 mit dem Aufgabenpaket \"Einsatzplanung und -vorbereitung\".",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "13-5",
+        "text": "Verbindungspersonen beispielsweise der Polizei oder der Bundeswehr.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 4
+  },
+  {
+    "id": "karte-14",
+    "orderId": 13,
+    "question": "Eine Sachgebietsleiterin oder ein Sachgebietsleiter in einem Führungsstab...\n ",
+    "media": [],
+    "answers": [
+      {
+        "id": "14-1",
+        "text": "... handelt nur auf Weisung des S 3 (Einsatz).",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "14-2",
+        "text": "... trifft im eigenen Sachgebiet Entscheidungen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "14-3",
+        "text": "... handelt im eigenen Sachgebiet eigenverantwortlich.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "14-4",
+        "text": "... ist dem S 3 (Einsatz) unterstellt.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "14-5",
+        "text": "... muss die Einsatzleiterin oder den Einsatzleiter unterstützen, informieren und beraten.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-15",
+    "orderId": 14,
+    "question": "Sie erhalten als S 2 am 15.02.2018 um 10:56 Uhr die dargestellte Meldung. Wie alt sind die auf dem Nachrichtenvordruck aufgeführten Informationen?\n \n ",
+    "media": [
+      {
+        "src": "Bildschirmfoto 2022-02-10 um 16.12.45.png",
+        "alt": "Bildschirmfoto 2022 02 10 um 16.12.45"
+      }
+    ],
+    "answers": [
+      {
+        "id": "15-1",
+        "text": "1 Stunde und 28 Minuten",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "15-2",
+        "text": "2 Minuten ",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "15-3",
+        "text": "Aufgrund des fehlerhaften ausgefüllten Nachrichtenvordrucks kann keine Angabe zur zeitlichen Aktualität gemacht werden.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "15-4",
+        "text": "33 Minuten",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "15-5",
+        "text": "1 Stunde und 1 Minute",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-16",
+    "orderId": 15,
+    "question": "Welche Aussage(n) zur dargestellten Lage ist bzw. sind richtig?\n \n ",
+    "media": [
+      {
+        "src": "Bildschirmfoto 2022-02-10 um 16.15.37.png",
+        "alt": "Bildschirmfoto 2022 02 10 um 16.15.37"
+      }
+    ],
+    "answers": [
+      {
+        "id": "16-1",
+        "text": "Das Gebäude Turmstraße Hausnummer 9 (HN 9) ist aufgrund einer Explosion total zerstört.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "16-2",
+        "text": "Die Turmstraße vor dem Gebäude Hausnummer 9 (HN 9) ist teilblockiert und schwierig zu befahren.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "16-3",
+        "text": "An der Wiesenstraße wurde westlich des Gebäudes Turmstraße Hausnummer 7 (HN 7) eine Patientenablage eingerichtet.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "16-4",
+        "text": "Das Gebäude Turmstraße Hausnummer 9 (HN 9) befindet sich im Vollbrand und ist teilweise zerstört.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "16-5",
+        "text": "Es ist eine unbekannte Anzahl von Personen im Gebäude Turmstraße Hausnummer 9 (HN 9) verschüttet.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-17",
+    "orderId": 16,
+    "question": "Was ergibt sich aus der FwDV 100 bezüglich Lagefeststellung und Lagedarstelltung?",
+    "media": [],
+    "answers": [
+      {
+        "id": "17-1",
+        "text": "Wenn das Sachgebiet S 6 nicht besetzt ist, kann auf die Darstellung einer Fernmeldeskizze verzichtet werden.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "17-2",
+        "text": "Die sorgfältige Lagefeststellung ist das Fundament eines jeden Einsatzerfolges. Überholte, unvollständige oder fehlende Informationen führen zu einer falschen Planung des Einsatzes und damit zu einem falschen Befehl.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "17-3",
+        "text": "Die Einsatzleitung muss die geführten Einheiten angemessen über die Lage informieren. Durch solche Informationen kann die Einsatzbereitschaft der Einsatzkräfte und deren Motivation zur Auftragserfüllung wesentlich erhöht werden.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "17-4",
+        "text": "Der Informationsfluss verläuft entsprechend der Hierarchie, also immer von unten nach oben.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "17-5",
+        "text": "Zur Lagedarstellung können taktische Zeichen verwendet werden. Für nicht festgelegte Elemente sind selbsterklärende einfach Texte oder andere grafische Symbole zu verwenden.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-18",
+    "orderId": 17,
+    "question": "Welche Aussage(n) über den Grundschutz ist bzw. sind in der Führungsstufe D gemäß FwDV 100 zutreffend?",
+    "media": [],
+    "answers": [
+      {
+        "id": "18-1",
+        "text": "Das Sachgebiet 2 (Lage) legt den Grundschutz fest und setzt ihn bei Bedarf ein.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "18-2",
+        "text": "Die Leitstelle legt den Grundschutz fest und teilt ihn der Leiterin bzw. dem Leiter des Stabes zu. Diese bzw. dieser setzt ihn bei Bedarf ein.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "18-3",
+        "text": "Das Sachgebiet 3 (Einsatz) legt den Grundschutz fest unt teilt ihn der Leitstelle zu. Diese setzt ihn bei Bedarf ein.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "18-4",
+        "text": "Das Sachgebiet 1 (Personal / Innerer Dienst) verlegt sämtliche Grundschutz-Einheiten in einen oder mehrere Bereitstellungsräume, um eine bessere Übersicht zu erlangen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "18-5",
+        "text": "Das Sachgebiet 4 (Versorgung) legt den Grundschutz fest und unterstellt ihn den Einsatzabschnittsleitungen.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-19",
+    "orderId": 18,
+    "question": "Die Bereitstellung von Kraftstoffen fällt in der Führungsstufe D gemäß FwDV 100 in den Zuständigkeitsbereich des Sachgebiets 4 (Versorgung). Welche der folgenden Aussagen sind Korrekt?",
+    "media": [],
+    "answers": [
+      {
+        "id": "19-1",
+        "text": "Gemäß Normvorgabe sollen alle Verbrennungsmotoren, die in Einsatzmitteln der Feuerwehren zu Anwendung kommen, ausschließlich mit Dieselkraftstoff betankt werden.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "19-2",
+        "text": "Das BHKG gibt für alle Einheiten der landesweiten koordinierten Hilfe vor, dass sie den eigenen Kraftstoffbedarf durch mitgeführte  mobile Tankstellen sicherstellen können müssen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "19-3",
+        "text": "Eine mobile Kraftstoffversorgung kann durch manche kommunale Feuerwehren, durch manche Einheiten des Technischen Hilfswerks (THW), durch manche Einheiten der Bundeswehr oder durch private Dienstleister ermöglicht werden.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "19-4",
+        "text": "Auch Bereitstellungsräume der Einsatzleitung müssen häufig bei der Kraftstoffversorgung berücksichtigt werden, da bei eintreffenden überörtlichen Einheiten oft ein großer Bedarf besteht.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "19-5",
+        "text": "Das BHKG verpflichtet alle privaten Tankstellen, Feuerwehrfahrzeuge in Großeinsatzlagen und Katastrophen jederzeit kostenlos mit den benötigten Krafststoffen zu versorgen.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-20",
+    "orderId": 19,
+    "question": "Welche der hier aufgeführten Grundsätze zur Befehlsgebung entsprechen den Aussagen der FwDV 100?",
+    "media": [],
+    "answers": [
+      {
+        "id": "20-1",
+        "text": "Je länger ein Befehl gelten soll, desto größere Selbstständigkeit muss er gewähren.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "20-2",
+        "text": "Es ist falsch, Einzelheiten zu befehlen, die die nachgeordneten Führungskräfte an Ort und Stelle besser überblicken.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "20-3",
+        "text": "Die befehlsgebende Führungskraft soll nur dann korrigierend in das Handeln der Nachgeordneten eingreifen, wenn die Auftragsdurchführung nicht dem Entschluss entspricht.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "20-4",
+        "text": "Wenn sich die Lage grundlegen geändert hat und schnelles Handeln erforderlich ist, dürfen nachgeordnete Führungskräfte vom Befehl abweichen, wenn eine Entscheidung der befehlsgebenden Führungskraft nicht rechtzeitig eingeholt werden kann.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "20-5",
+        "text": "Die befehlende Führungskraft muss sich in die Lage der Empfänger versetzen und ihre Befehle dem Kenntnisstand der Nachgeordneten anpassen. Umgekehrt haben die Nachgeordneten die Pflicht, sich in die Absicht der Vorgesetzten hineinzudenken.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 5
+  },
+  {
+    "id": "karte-21",
+    "orderId": 20,
+    "question": "Zur Führung über langere Zeiträume kann es  notwendig sein, das Befehlsschema zu ergänzen und anders zu gliedern. Welches der hier aufgeführten Schemata entspricht dieser Möglichkeit gemäß FwDV 100?",
+    "media": [],
+    "answers": [
+      {
+        "id": "21-1",
+        "text": "Meldender / Einsatzstelle / Lage / Durchgeführte Maßnahmen / Eingeleitete Malnahmen / Nachforderungen",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "21-2",
+        "text": "Lage / Absicht / Einheit / Verpflegung / Kommunikation",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "21-3",
+        "text": "Lage / Auftrag / Durchführung / Versorgung / Führung und Kommunikationswesen",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "21-4",
+        "text": "Einheitsübersetzung / Auftragslage / Mittelverwendung / Zielfindung / Wegbeschreibung",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "21-5",
+        "text": "Gefahren / Probleme / Taktik / Umsetzung / Nachforderung",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-22",
+    "orderId": 21,
+    "question": "Welche dieser Festlegung(en) ergibt bzw. ergeben sich aus dem Konzept für die Mobile Führungsunterstützung von Stäben in Nordrhein-Westfalen (MoFüSt NRW)?",
+    "media": [],
+    "answers": [
+      {
+        "id": "22-1",
+        "text": "MoFüSt Stufe 1 beinhaltet einen ELW 1, MoFüSt Stufe 2 beinhaltet einen ELW 2, MoFüSt Stufe 3 beinhaltet einen ELW 3 und MoFüSt Stufe 4 umfasst eine auf geländefähigen Fahrzeugen mobilisierte Leitstelle.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "22-2",
+        "text": "MoFüSt Stufe 2 umfasst eine Führungsgruppe, MoFüSt Stufe 3 umfasst einen Führungsstab.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "22-3",
+        "text": "Der Einsatz einer MoFüSt-Einheit ist eine überörtliche Hilfe gemäß BHKG und wird über die eigene Leitstelle bei der Bezirksregierung angefordert.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "22-4",
+        "text": "In den Stufen 2 und 3 des MoFüSt-Konzeptes wird ein Vorauskommando entsandt, das bei Eintreffen Kontakt mit der anfordernden Einsatzleitung aufnimmt.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "22-5",
+        "text": "MoFüSt NRW ist eine gesetzliche Grundlage, um die Rechte und Pflichten der Einsatzleitung gemäß §§ 33 und 37 BHKG vollständig auf Kräfte der überörtlichen Hilfe zu übertragen.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-23",
+    "orderId": 22,
+    "question": "Welche der folgenden Aussage(n) zum Einsatz des Technischen Hilfswerks (THW) in Feuerwehr- und Katatrophenschutzeinsätzen ist bzw. sind korrekt?",
+    "media": [],
+    "answers": [
+      {
+        "id": "23-1",
+        "text": "Die Anforderung von Einheiten des THW ist gegenüber den Aufsichtsbehörden meldepflichtig gemäß Meldeerlass. Ausgenommen sind örtliche, in de Einsatzplanung bereits eingebundene THW-Einheiten.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "23-2",
+        "text": "Es gelten die Grundsätze der Amtshilfe. Das THW kann aber unter Umständen auf eine Auslagenerstattung gegenüber der anfordernden Stelle verzichten, wenn dies im öffentlichen Interesse liegt.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "23-3",
+        "text": "Zur Beratung und Koordination kann das THW auf Anforderung Fachberaterinnen bzw. Fachberater in Einsatzleitungen und Einsatzabschnittsleitungen entsenden. Die Anforderung taktischer THW-Einheiten ist aber auch ohne diesen Schritt möglich.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "23-4",
+        "text": "Das THW hält auch Logistik-Einheiten zur Versorgung mit Getränken, Verpflegung und Betriebsstoffen vor.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "23-5",
+        "text": "Das THW hält auch Führungseinheiten zur Übernahme einer Einsatzabschnittsleitung vor.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 5
+  },
+  {
+    "id": "karte-24",
+    "orderId": 23,
+    "question": "Welche Vorrangstufe hat der Absender diese Meldung zugewiesen und welche Erwartung ist hiermit verbunden?\n ",
+    "media": [
+      {
+        "src": "Bildschirmfoto 2022-02-13 um 15.08.14.png",
+        "alt": "Bildschirmfoto 2022 02 13 um 15.08.14"
+      }
+    ],
+    "answers": [
+      {
+        "id": "24-1",
+        "text": "Keine speziell gekennzeichnete Vorrangstufe: Der Absender erwartet, dass sie als einfache Nachricht behandelt wird.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "24-2",
+        "text": "Blitz-Nachricht: Der Absender erwartet eine unverzügliche Übermittlung der Nachricht. Falls hierzu andere Kommunikation unterbrochen werden muss, wird auch dies erwartet.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "24-3",
+        "text": "Bagatell-Nachricht: Der Absener erwartet, dass diese Meldung erst dann übermittelt wird, wenn keinerlei andere Meldung auf eine Übermittlung wartet.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "24-4",
+        "text": "Sofort-Nachricht: Der Absender erwartet also nur, dass diese Meldung vor einfachen Nachrichten übermittelt wird.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "24-5",
+        "text": "Blitz-Nachricht: Der Absender erwartet, dass diese Meldung vorrangig, aber nicht unverzüglich übermittelt wird.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-25",
+    "orderId": 24,
+    "question": "Welche Aussage(n) zur Einsatzeinheit NRW ist bzw. sind gemäß Landeskonzept zutreffend?",
+    "media": [],
+    "answers": [
+      {
+        "id": "25-1",
+        "text": "Die Einsatzeinheit NRW dient vorrangig der sanitätsdienstlichen Versorgung von Patienten und der Betreuung von unverletzt Betroffenen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "25-2",
+        "text": "Aus Gründen der Logistik und der Fernmeldetaktik darf die Einsatzeinheit NRW nur als Ganzes in den Einsatz gebracht werden. Eine Alarmierung von Teileinheiten ist zu unterlassen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "25-3",
+        "text": "Aus der Einsatzeinheit NRW können schneller verfügbare Teileinheiten in Gruppenstärke gebildet werden, die Schnelleinsatzgruppen (SEG) genannt werden.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "25-4",
+        "text": "Aus je zwei Einsatzeinheiten NRW und weiteren Ergänzungen besetehen die vorgeplanten Einheiten Behandlungsplatzbereitschaft 50 NRW (BHP-B 50 NRW) und Betreuungsplatz-Bereitschaft 500 NRW (BTP-B 500 NRW).",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "25-5",
+        "text": "Aufgrund der hohen Eilbedürftigkeit im Alarmfall wird in der Einsatzeinheit NRW vorrangig hauptamtliches Rettungsfachpersonal eingesetzt.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-26",
+    "orderId": 25,
+    "question": "Welche Aussage (n) ergibt bzw. ergeben sich aus der FwDV 100 bezüglich der Warnung der Bevölkerung in der Führungsstufe D?",
+    "media": [],
+    "answers": [
+      {
+        "id": "26-1",
+        "text": "Das Sachgebiet 1 ist für den Eigenschutz der Bevölkerung zuständig und kann zur Warnung Sirenenalarn auslösen lassen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "26-2",
+        "text": "Das Sachgebiet 2 soll darauf hinwirken, dass der Inhalt von Lagebesprechungen möglichst im\nWortlaut zur Warnung der Bevölkerung genutzt wird.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "26-3",
+        "text": "Das Sachgebiet 3 kann Sofortmaßnahmen für die gefährdete Bevölkerung veranlassen, zum\nBeispiel Warnungen per Lautsprecherdurchsage.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "26-4",
+        "text": "Das Sachgebiet 4 ist für die psychosoziale Notfallversorgung der Bevölkerung zuständig und\nkann zur Stressprävention entsprechende Warnungen veranlassen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "26-5",
+        "text": "Das Sachgebiet 5 kann im Rahmen der Presse- und Medieneinbindung in die\nSchadenbekämpfung auch Warnhinweise für die Bevölkerung veranlassen.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  },
+  {
+    "id": "karte-27",
+    "orderId": 26,
+    "question": "In der Führungsstufe D gemäß FwDV 100 ist das Sachgebiet 3 (Einsatz) auch zuständig für...",
+    "media": [],
+    "answers": [
+      {
+        "id": "27-1",
+        "text": "...die Beurteilung der Gefahrenlage.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "27-2",
+        "text": "...den Einsatz von Drohnen zur Lageerkundung.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "27-3",
+        "text": "...die Erstellung eines Kommunikationsplanes, sofern das Sachgebiet 6 nicht besetzt ist.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "27-4",
+        "text": "...die Festlegung des Eigenschutzes für die gesamte Einsatzstelle.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "27-5",
+        "text": "...die Bestimmung von Einsatzschwerpunkten und Einsatzabschnittsgrenzen.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-28",
+    "orderId": 27,
+    "question": "Was sagen Erlasse des Innenministeriums über das Meldewvesen aus?",
+    "media": [],
+    "answers": [
+      {
+        "id": "28-1",
+        "text": "Die Arbeitsaufnahme des Krisenstabes soll keine Auswirkungen auf das Meldewesen der\nEinsatzleitung haben. Es sind zwei unabhängige Meldestränge an die Aufsichtsbehörden\nparallel aufrechtzuerhalten, um Informationsverluste zu vermeiden.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "28-2",
+        "text": "Um eine qualifizierte Information sicherzustellen, erstellt der Krisenstab in angemessener\nzeitlicher Abfolge Lageberichte und übermittelt diese an die Aufsichtsbehörden. Die\nEinsatzleitung hat dem Krisenstab die zu diesem Zweck benötigten Informationen zu übermitteln.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "28-3",
+        "text": "Sämtliche Einsätze mit Gefahren durch chemische Stoffe und Materialien sind meldepflichtig (>25 Einsatzkräfte).\nLiegt ein meldepflichtiges Ereignis vor, hat die Leitstelle spätestens 30 Minuten nach dem Eintreffen\nder Einsatzleiterin bzw. des Einsatzleiters am Einsatzort eine Sofortmeldung abzusetzen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "28-4",
+        "text": "Meldungen an die Aufsichtsbehörden (Sofort-, Folge- und Schlussmeldungen) sind\nformgebunden (d. h. auf vorgegebenem Formular) zu erstellen.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-29",
+    "orderId": 28,
+    "question": "Welche Aussage(n) über Bereitstellungsräume ergibt bzw. ergeben sich aus der FwDV 100 ?",
+    "media": [],
+    "answers": [
+      {
+        "id": "29-1",
+        "text": "In der Führungsstufe D ist das Sachgebiet S 1 für das Einrichten von Bereitstellungsräumen zuständig",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "29-2",
+        "text": "Bereitstellungsraum ist die Sammelbezeichnung für Orte, an denen Einsatzkräfte und\nEinsatzmittel für den unmittelbaren Einsatz oder vorsorglich gesammelt, gegliedert und bereitgestellt oder in Reserve gehalten werden.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "29-3",
+        "text": "Bereitstellungsräume sind Orte in der Nähe einer Einsatzstelle, außerhalb des\nGefahrenbereiches, an der in Sicherheit gebrachte Personen mnedizinisch erstversorgt, registriert und für den weiteren Transport stabilisiert werden.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "29-4",
+        "text": "Einsatzabschnittsleitungen dürfen keine Bereitstellungsräume festlegen und betreiben. Die\nAufgabe obliegt in der Führungsstufe D allein der Einsatzleitung bzw. ihren Sachgebiete",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "29-5",
+        "text": "In der Führungsstufe D ist das Sachgebiet S 3 für die Ordnung des Raumes und somit\nfür das Festlegen der Bereitstellungsräume zuständig.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-30",
+    "orderId": 29,
+    "question": "Ein Führungsstab im Sinne der FwDV 100 besteht aus...",
+    "media": [],
+    "answers": [
+      {
+        "id": "30-1",
+        "text": "...dem Leiter oder der Leiterin des Stabes, der Koordinierungsgruppe des Stabes (KGS), dem\nMitgliedern des Stabes (SMS) Bevölkerungsinformation und den und Medienarbeit (BuMA), den ständigen Mitgliedern des Stabes (SMS) und den ereignisspezifischen Mitgliedern des Stabes (EMS)",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "30-2",
+        "text": "der Leiterin oder dem Leiter des Stabes, den Sachgebieten S1 bis S6 sowie lageabhängig Fachberaterinnen/Fachberatern und Verbindungspersonen.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "30-3",
+        "text": "der Behördenleitung, der Pressestelle, dem Rechtsamt, dem Ordnungsamt und den betroffenen Fachämtern.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "30-4",
+        "text": "ausschließlich aus S3 Einsatz und S6 Informations- und Kommunikationswesen.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-31",
+    "orderId": 30,
+    "question": "Wie findet nach Aussage der FwDV 100 die Unterstützung der Einsatzleiterin bzw. des Einsatzleiters in einem Führungsstab statt?",
+    "media": [],
+    "answers": [
+      {
+        "id": "31-1",
+        "text": "Die Mitglieder des Führungsstabes müssen die Einsatzleiterin bzw. Einsatzleiter unterstützen, informieren und beraten.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "31-2",
+        "text": "Die Mitglieder des Führungsstabes müssen die Einsatzleiterin bzw. den Einsatzleiter vertreten, d. h. sie müssen Befehle stets an ihrer bzw. seiner Stelle treffen und erteilen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "31-3",
+        "text": "Weil die Mitglieder der Führungsstabes in eigenen Sachgebieten eigenverantwortlich handeln, müssen ihre Entscheidungen und Befehle nicht der Einsatzleiterin bzw. dem Einsatzeiter bekannt machen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "31-4",
+        "text": "Die Mitglieder des Führungsstabes müssen alle getroffenen Entscheidungen dem Sachgebiet 3 (Einsatz) mitteilen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "31-5",
+        "text": "Um die Einsatzleiterin bzw. den Einsatzleiter effektiv Zu entlasten, müssen die Mitglieder des Führungsstabes sämtliche Entscheidungen auch gegenüber dem Krisenstab begründen.",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 1
+  },
+  {
+    "id": "karte-32",
+    "orderId": 31,
+    "question": "Eine Bezirksbereitschaft gemäß Konzept für die \"vorgeplante überörtliche Hilfe im Brandschutz und der Hilfeleistung durch die Feuerwehren im Land NRW\" (VüH-Feu NRW)...",
+    "media": [],
+    "answers": [
+      {
+        "id": "32-1",
+        "text": "...besteht aus einem Vorauskommando, fünf LZ und zwei Rüstzügen.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "32-2",
+        "text": "...soll nach zwei Stunden Vorlaufzeit abmrschbereit sein, auch wenn für die Einsatzkräfte ein mehrtätiger Einsatz mit Übernachtung vorgesehen ist.",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "32-3",
+        "text": "...soll nach zwei Stunden Vorlaufzeit abmarschbereit sein, sofern die geplante Einsatzdauer inklusive Marsch- und Erholungzeiten 24 Stunden nicht überschreitet.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "32-4",
+        "text": "...besteht aus der Bezirksbereitschaft, vier LZ und einem Logistikzug.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "32-5",
+        "text": "...kann über die eigene Leitstelle bei der zuständigen Bezirksregierung angefordert werden.",
+        "correct": true,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 3
+  },
+  {
+    "id": "karte-33",
+    "orderId": 32,
+    "question": "Wer ist Führungsstab gemäß FwDV 100 zuständig für die Festlegung der Fernmeldeorganisation?",
+    "media": [],
+    "answers": [
+      {
+        "id": "33-1",
+        "text": "Das Sachgebiet S3, wenn das Sachgebiet S6 nicht oder noch nicht besetzt ist.",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "33-2",
+        "text": "Das Sachgebiet S6",
+        "correct": true,
+        "explanation": ""
+      },
+      {
+        "id": "33-3",
+        "text": "Die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS)",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "33-4",
+        "text": "Die Leitstelle",
+        "correct": false,
+        "explanation": ""
+      },
+      {
+        "id": "33-5",
+        "text": "Das Landesamt für Zentrale Polizeiliche Dienste (LZPD)",
+        "correct": false,
+        "explanation": ""
+      }
+    ],
+    "correctCount": 2
+  }
+]

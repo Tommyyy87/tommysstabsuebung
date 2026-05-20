@@ -1,0 +1,26 @@
+# Dependencies and build output
+**/node_modules/
+**/dist/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.env
+.env.*
+
+# Source material kept local for now
+*.pdf
+*.docx
+*.xlsx
+*.jpeg
+*.jpg
+*.png
+!karteikarten-spiel/public/cards-media/*.jpeg
+!karteikarten-spiel/public/cards-media/*.jpg
+!karteikarten-spiel/public/cards-media/*.png
+
+# Original exports/material folders
+4-fach Nachrichtenvordruck/
+Einsatztagebuch/
+EVA-Aufgaben/
+XML Export - karteikarten/
