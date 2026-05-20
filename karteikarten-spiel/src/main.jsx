@@ -276,7 +276,6 @@ function App() {
                     <p className="mission-label">Karte {cardIndex + 1} / {cards.length}</p>
                     <h2>{roundTitle}</h2>
                   </div>
-                  <span className="correct-count">{currentCard.correctCount} korrekt</span>
                 </div>
                 <p className="question-text">{currentCard.question}</p>
                 {currentCard.media.length > 0 && (

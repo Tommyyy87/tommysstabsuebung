@@ -350,17 +350,6 @@ button:disabled {
   line-height: 1.06;
 }
 
-.correct-count {
-  flex: 0 0 auto;
-  border: 1px solid rgba(114, 213, 156, 0.3);
-  border-radius: 8px;
-  padding: 9px 11px;
-  color: var(--green);
-  font-size: 0.84rem;
-  font-weight: 850;
-  background: rgba(114, 213, 156, 0.1);
-}
-
 .question-text {
   margin: 0;
   color: var(--text);
