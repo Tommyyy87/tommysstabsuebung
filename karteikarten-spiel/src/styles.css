@@ -625,57 +625,239 @@ button:disabled {
 }
 
 @media (max-width: 720px) {
+  html {
+    background: #111411;
+  }
+
   .app-shell {
-    padding: 10px;
+    padding: 0;
   }
 
   .command-room {
-    min-height: calc(100vh - 20px);
-  }
-
-  .topbar,
-  .round-controls,
-  .action-row,
-  .question-header {
-    align-items: stretch;
-    flex-direction: column;
+    min-height: 100vh;
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
   }
 
   .topbar {
-    padding: 14px;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    background: rgba(15, 18, 16, 0.94);
+  }
+
+  .brand {
+    min-width: 0;
+    gap: 10px;
+  }
+
+  .brand-mark {
+    width: 38px;
+    height: 38px;
+  }
+
+  .brand p {
+    margin-bottom: 1px;
+    font-size: 0.64rem;
+  }
+
+  .brand h1 {
+    overflow: hidden;
+    font-size: 1rem;
+    line-height: 1.08;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .round-controls {
+    display: contents;
+  }
+
+  .round-controls label {
+    display: none;
+  }
+
+  .ghost-button {
+    min-height: 38px;
+    padding: 9px 11px;
+    white-space: nowrap;
   }
 
   .game-layout {
-    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
   }
 
   .left-rail {
-    grid-template-columns: 1fr;
+    position: sticky;
+    top: 59px;
+    z-index: 4;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 7px;
+    padding: 8px;
+    background: rgba(18, 21, 19, 0.94);
   }
 
-  .round-controls input,
-  .ghost-button,
-  .primary-button {
-    width: 100%;
+  .metric {
+    min-height: 54px;
+    gap: 7px;
+    padding: 8px;
+  }
+
+  .metric > span {
+    width: 30px;
+    height: 30px;
+  }
+
+  .metric small {
+    font-size: 0.61rem;
+  }
+
+  .metric strong {
+    font-size: 1.05rem;
+  }
+
+  .playfield {
+    display: block;
   }
 
   .question-card,
   .briefing-card {
-    padding: 18px;
+    padding: 16px;
+  }
+
+  .question-card {
+    display: flex;
+    flex-direction: column;
+    min-height: auto;
+    overflow: visible;
+  }
+
+  .question-header {
+    display: block;
+  }
+
+  .question-header h2 {
+    font-size: 1.4rem;
+    line-height: 1.08;
+  }
+
+  .question-text {
+    font-size: 1.08rem;
+    line-height: 1.38;
+  }
+
+  .question-media {
+    max-height: none;
+    padding: 9px;
+  }
+
+  .question-media img {
+    width: 100%;
+    max-width: 100%;
+    max-height: 220px;
+  }
+
+  .answers {
+    gap: 9px;
+    overflow: visible;
+    padding-right: 0;
+    padding-bottom: 78px;
   }
 
   .briefing-card h2 {
-    font-size: 2.35rem;
+    font-size: clamp(2.15rem, 12vw, 3.15rem);
+    line-height: 1;
+  }
+
+  .briefing-card p:not(.mission-label) {
+    font-size: 0.98rem;
+    line-height: 1.5;
   }
 
   .answer-button {
     grid-template-columns: 32px 1fr;
-    font-size: 0.92rem;
+    min-height: 58px;
+    padding: 11px;
+    font-size: 0.9rem;
   }
 
   .answer-button span {
     width: 32px;
     height: 32px;
+  }
+
+  .action-row {
+    position: sticky;
+    bottom: 0;
+    z-index: 3;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
+    margin: 2px -16px -16px;
+    border-top: 1px solid rgba(245, 241, 231, 0.16);
+    padding: 10px 16px 12px;
+    background: rgba(21, 24, 22, 0.96);
+    backdrop-filter: blur(18px);
+  }
+
+  .primary-button {
+    width: 100%;
+    min-height: 48px;
+  }
+
+  .verdict {
+    justify-content: center;
+    min-height: 36px;
+    padding: 8px 10px;
+    font-size: 0.88rem;
+  }
+
+  .scoreboard {
+    min-height: auto;
+    padding: 14px;
+  }
+
+  .score-list li {
+    grid-template-columns: 30px minmax(0, 1fr) auto;
+  }
+}
+
+@media (max-width: 420px) {
+  .brand h1 {
+    max-width: 165px;
+  }
+
+  .ghost-button {
+    padding-inline: 9px;
+    font-size: 0.84rem;
+  }
+
+  .ghost-button svg {
+    display: none;
+  }
+
+  .metric {
+    display: grid;
+    justify-items: center;
+    text-align: center;
+  }
+
+  .metric > span {
+    display: none;
+  }
+
+  .answer-button {
+    font-size: 0.86rem;
   }
 }
 
